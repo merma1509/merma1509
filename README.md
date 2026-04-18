@@ -1,9 +1,58 @@
 # 💫 About Me:
-# ~M~ | AI Systems Engineer | Founder<br><br>Building **intelligent, real-world systems** at the intersection of:<br><br>* Traffic Intelligence (RoutiQ)<br>* Climate Intelligence (OpenClimate)<br>* IoT & Cyber-Physical Systems<br>* UAV / Autonomous Systems<br><br>**Focus:** real-time AI systems, distributed infrastructure, and edge intelligence.<br><br>---<br><br>## System Perspective<br><br>```text<br>DATA → MODELS → DECISIONS → REAL-WORLD IMPACT<br>```<br><br>* Event-driven architectures<br>* Streaming-first pipelines<br>* ML as a decision layer<br>* Edge + cloud hybrid systems<br><br>---<br><br>## Core Projects<br><br>### RoutiQ<br><br>Real-time **traffic intelligence platform**<br>→ GNN-based prediction + RL-driven routing optimization<br><br>### OpenClimate<br><br>AI-powered **climate risk intelligence system**<br>→ IoT sensing + time-series forecasting<br><br>### IoT / CPS Systems<br><br>Distributed **sensor networks**<br>→ real-time data ingestion + edge processing<br><br>### UAV / Drone Systems<br><br>Autonomous systems for **logistics, monitoring, and intelligence**<br>→ edge AI + computer vision + sensor fusion<br><br>---<br><br>## Expertise<br><br>### AI / Machine Learning<br><br>* Graph Neural Networks (GNNs)<br>* Reinforcement Learning (SAC, PPO)<br>* Time-series modeling<br>* AI systems engineering<br><br>### AI Security & Robustness<br><br>* Adversarial attacks (evasion, poisoning)<br>* Model robustness & defense strategies<br>* ML system vulnerabilities<br><br>### Systems Engineering<br><br>* Real-time data pipelines<br>* Distributed systems<br>* ML in production<br><br>### IoT / Cyber-Physical Systems<br><br>* Sensor networks (ESP32, Raspberry Pi)<br>* Edge computing<br>* Data acquisition systems<br><br>---<br><br>## Tech Stack<br><br>**ML / AI:** PyTorch, PyTorch Geometric, Scikit-learn<br>**Data:** Kafka, Spark/Dask, PostgreSQL, Redis<br>**Backend:** FastAPI, Python (async), Node.js<br>**Infra:** Docker, Kubernetes (in progress), Cloud (AWS/GCP)<br>**Embedded:** ESP32, Raspberry Pi<br><br>---<br><br>## Current Focus<br><br>* Real-time traffic intelligence (RoutiQ)<br>* ML + RL for dynamic systems<br>* AI security & robustness<br>* IoT data infrastructure<br>* Edge + cloud integration<br><br>---<br><br>## Research Fields<br><br>* Graph-based learning (GNNs)<br>* Reinforcement learning in dynamic environments<br>* Adversarial ML (attacks & defenses)<br>* Distributed sensing systems<br>* Autonomous systems (UAVs)<br><br>---<br>
+# Data Practitioner | DroneTech Enthusiast| 
 
+Building **real-world intelligent systems** across:
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=plastic&logo=apachespark&logoColor=black) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=plastic&logo=neo4j&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=plastic&logo=InfluxDB&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=plastic&logo=selenium&logoColor=white)
+* Traffic Intelligence (RoutiQ)
+* Climate Risk Intelligence (OpenClimate)
+* IoT and Cyber-Physical Systems
+* UAVs and Autonomous Systems
+
+**Focus:** real-time AI, distributed systems, and edge intelligence
+
+---
+
+## System Perspective
+
+```text
+DATA → MODELS → DECISIONS → REAL-WORLD IMPACT
+```
+
+* Event-driven, streaming-first architectures
+* ML as a decision layer
+* Edge + cloud integration
+
+---
+
+## Core Work
+
+* **RoutiQ:** GNN-based traffic prediction + Adaptive RL routing
+* **OpenClimate:** IoT + time-series climate Risk intelligence
+* **IoT/CPS:** sensor networks + real-time ingestion
+* **UAV Systems:** edge AI + computer vision
+
+---
+
+## Expertise
+
+* **AI/ML:** GNNs, RL, time-series
+* **AI Security:** adversarial attacks & defenses, robustness
+* **Systems:** real-time pipelines, distributed ML
+* **IoT/CPS:** edge computing, sensor networks
+
+---
+
+## Focus & Research
+
+* Real-time intelligent systems
+* AI security & robustness
+* RL in dynamic environments
+* Distributed sensing & UAV systems
+
+---
+
+# Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=plastic&logo=apachespark&logoColor=black) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=plastic&logo=neo4j&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) !![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=merma1509&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=merma1509&theme=dark&hide_border=false)<br/>
