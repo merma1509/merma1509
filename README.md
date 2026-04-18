@@ -8,13 +8,7 @@ Building **real-world intelligent systems** across:
 * IoT and Cyber-Physical Systems
 * UAVs and Autonomous Systems
 
-**Focus:** real-time AI, distributed systems, and edge intelligence
-
-## Core Work
-* **RoutiQ:** GNN-based traffic prediction + Adaptive RL routing
-* **OpenClimate:** IoT + time-series climate Risk intelligence
-* **IoT/CPS:** sensor networks + real-time ingestion
-* **UAV Systems:** edge AI + computer vision
+**Focus:** real-time AI, distributed systems, edge intelligence, Adaptive RL routing, and sensor networks + real-time ingestion
 
 ## Expertise
 * **AI/ML:** GNNs, RL, time-series
