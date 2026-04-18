@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Data Practitioner | DroneTech Enthusiast| 
+# Data Practitioner | DroneTech Enthusiast| Cybersecurity Hobbyist|
 
 Building **real-world intelligent systems** across:
 
@@ -10,25 +10,13 @@ Building **real-world intelligent systems** across:
 
 **Focus:** real-time AI, distributed systems, and edge intelligence
 
-## System Perspective
-
-```text
-DATA → MODELS → DECISIONS → REAL-WORLD IMPACT
-```
-
-* Event-driven, streaming-first architectures
-* ML as a decision layer
-* Edge + cloud integration
-
 ## Core Work
-
 * **RoutiQ:** GNN-based traffic prediction + Adaptive RL routing
 * **OpenClimate:** IoT + time-series climate Risk intelligence
 * **IoT/CPS:** sensor networks + real-time ingestion
 * **UAV Systems:** edge AI + computer vision
 
 ## Expertise
-
 * **AI/ML:** GNNs, RL, time-series
 * **AI Security:** adversarial attacks & defenses, robustness
 * **Systems:** real-time pipelines, distributed ML
@@ -48,7 +36,3 @@ DATA → MODELS → DECISIONS → REAL-WORLD IMPACT
 ![](https://streak-stats.demolab.com/?user=merma1509&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=merma1509&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=merma1509&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
