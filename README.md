@@ -8,8 +8,6 @@ Building **real-world intelligent systems** across:
 * IoT and Cyber-Physical Systems
 * UAVs and Autonomous Systems
 
-**Focus:** real-time AI, distributed systems, edge intelligence, Adaptive RL routing, and sensor networks + real-time ingestion
-
 ## Expertise
 * **AI/ML:** GNNs, RL, time-series
 * **AI Security:** adversarial attacks & defenses, robustness
