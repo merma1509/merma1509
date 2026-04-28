@@ -1,12 +1,6 @@
 # 💫 About Me:
 # Data Practitioner | DroneTech Enthusiast| Cybersecurity Hobbyist|
 
-Building **real-world intelligent systems** across:
-
-* Traffic Intelligence
-* Climate Risk Intelligence
-* IoT and Cyber-Physical Systems
-
 ## Expertise
 * **AI/ML:** GNNs, RL, time-series
 * **AI Security:** adversarial attacks & defenses, robustness
