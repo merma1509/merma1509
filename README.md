@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Data Practitioner| AI Security| Cybersecurity Hobbyist|
+# Data Practitioner| Cybersecurity Hobbyist|
 
 ## Expertise
 * **AI/ML:** GNNs, RL, time-series
