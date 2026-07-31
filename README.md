@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Data Practitioner | DroneTech Enthusiast| Cybersecurity Hobbyist|
+# Data Practitioner | AI Security Researcher| Cybersecurity Hobbyist|
 
 ## Expertise
 * **AI/ML:** GNNs, RL, time-series
