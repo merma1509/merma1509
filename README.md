@@ -1,16 +1,16 @@
 # 💫 About Me:
-# Data Practitioner| Cybersecurity Hobbyist|
+# Data Practitioner| AI Security Researcher|
 
 ## Expertise
 * **AI/ML:** GNNs, RL, time-series
 * **AI Security:** adversarial attacks & defenses, robustness
-* **IoT/CPS:** edge computing, sensor networks
+* **IoT/CPS:** edge AI, sensor networks
 
 ## Focus & Research
 
 * AI security & robustness
 * RL in dynamic environments
-* Distributed sensing & Autonomous systems
+* Edge intelligence & Autonomous systems
 
 # Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=plastic&logo=apachespark&logoColor=black) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=plastic&logo=neo4j&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
