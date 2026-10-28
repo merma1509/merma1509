@@ -2,13 +2,13 @@
 # Data Practitioner| AI Security Researcher|
 
 ## Expertise
-* **AI/ML:** GNNs, RL, time-series
-* **AI Security:** adversarial attacks & defenses, robustness
+* **AI/ML:** GNNs, RL, time-series, Agentic AI
+* **AI Security:** adversarial attacks & defenses, robustness, Tool-using AI
 * **IoT/CPS:** edge AI, sensor networks
 
 ## Focus & Research
 
-* AI security & robustness
+* AI security & robustness, Agentic AI
 * RL in dynamic environments
 * Edge intelligence & Autonomous systems
 
