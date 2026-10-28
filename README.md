@@ -3,7 +3,7 @@
 
 ## Expertise
 * **AI/ML:** GNNs, RL, time-series, Agentic AI
-* **AI Security:** adversarial attacks & defenses, robustness, Tool-using AI
+* **AI Security:** adversarial attacks & defenses, robustness, Tool-using Agents
 * **IoT/CPS:** edge AI, sensor networks
 
 ## Focus & Research
